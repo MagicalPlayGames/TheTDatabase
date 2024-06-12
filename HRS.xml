@@ -1,0 +1,400 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Items>
+    <ItemId>1</ItemId>
+    <ItemName>Variety</ItemName>
+    <Flavor>Watermelon</Flavor>
+    <Size>Large</Size>
+    <PRICE>20.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>2</ItemId>
+    <ItemName>Variety</ItemName>
+    <Flavor>Blue-Raz Lemonade</Flavor>
+    <Size>Large</Size>
+    <PRICE>20.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>3</ItemId>
+    <ItemName>Koolaid Pickles </ItemName>
+    <Flavor>Cherri-ade</Flavor>
+    <Size>Medium</Size>
+    <PRICE>7.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>4</ItemId>
+    <ItemName>Koolaid Pickles </ItemName>
+    <Flavor>OG Grape</Flavor>
+    <Size>Medium</Size>
+    <PRICE>7.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>5</ItemId>
+    <ItemName>Koolaid Pickles </ItemName>
+    <Flavor>Cherri</Flavor>
+    <Size>Medium</Size>
+    <PRICE>7.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>6</ItemId>
+    <ItemName>Koolaid Pickles </ItemName>
+    <Flavor>Blue-Raze Lemonade</Flavor>
+    <Size>Medium</Size>
+    <PRICE>7.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>7</ItemId>
+    <ItemName>Koolaid Mangos</ItemName>
+    <Flavor>Blue-Raze Lemonade</Flavor>
+    <Size>Medium</Size>
+    <PRICE>7.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>8</ItemId>
+    <ItemName>Koolaid Mangos</ItemName>
+    <Flavor>Peach</Flavor>
+    <Size>Medium</Size>
+    <PRICE>7.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>9</ItemId>
+    <ItemName>Koolaid Pickels</ItemName>
+    <Flavor>Peach Mango</Flavor>
+    <Size>Medium</Size>
+    <PRICE>7.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>10</ItemId>
+    <ItemName>Koolaid Pineapples</ItemName>
+    <Flavor>Cheri-ade</Flavor>
+    <Size>Medium</Size>
+    <PRICE>7.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>11</ItemId>
+    <ItemName>Koolaid Pineapples</ItemName>
+    <Flavor>Cheri-limeade</Flavor>
+    <Size>Small</Size>
+    <PRICE>5.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>12</ItemId>
+    <ItemName>Koolaid Pineapples</ItemName>
+    <Flavor>Blue-Raz Lemonade</Flavor>
+    <Size>Small</Size>
+    <PRICE>5.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>13</ItemId>
+    <ItemName>Koolaid Pineapples</ItemName>
+    <Flavor>Watermelon</Flavor>
+    <Size>Small</Size>
+    <PRICE>5.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>14</ItemId>
+    <ItemName>Koolaid Mangos</ItemName>
+    <Flavor>Strawberry Kiwi</Flavor>
+    <Size>Small</Size>
+    <PRICE>5.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>15</ItemId>
+    <ItemName>Koolaid Mangos</ItemName>
+    <Flavor>Strawberry</Flavor>
+    <Size>Small</Size>
+    <PRICE>5.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>16</ItemId>
+    <ItemName>Koolaid Pickles </ItemName>
+    <Flavor>Smash-Punch</Flavor>
+    <Size>Small</Size>
+    <PRICE>5.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>17</ItemId>
+    <ItemName>Koolaid Pickles </ItemName>
+    <Flavor>Green Apple</Flavor>
+    <Size>Small</Size>
+    <PRICE>5.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>18</ItemId>
+    <ItemName>Koolaid Pickles </ItemName>
+    <Flavor>Strawberry Kiwi</Flavor>
+    <Size>Small</Size>
+    <PRICE>5.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>19</ItemId>
+    <ItemName>Koolaid Pickles </ItemName>
+    <Flavor>Cherri-Limeade</Flavor>
+    <Size>Small</Size>
+    <PRICE>5.99</PRICE>
+  </Items>
+  <Items>
+    <ItemId>20</ItemId>
+    <ItemName>Jolly Mangos</ItemName>
+    <Flavor>Blue-Raz Lemonade</Flavor>
+    <Size>Medium</Size>
+    <PRICE>7.99</PRICE>
+  </Items>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>1</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Variety&lt;&gt;Watermelon&lt;&gt;Large</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>4</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;OG Grape&lt;&gt;Medium</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>2</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Variety&lt;&gt;Blue-Raz Lemonade&lt;&gt;Large</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>3</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Cherri-ade&lt;&gt;Medium</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>5</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Cherri&lt;&gt;Medium</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>6</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Blue-Raze Lemonade&lt;&gt;Medium</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>7</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Mangos&lt;&gt;Blue-Raze Lemonade&lt;&gt;Medium</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>8</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Mangos&lt;&gt;Peach&lt;&gt;Medium</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>9</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickels&lt;&gt;Peach Mango&lt;&gt;Medium</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>10</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pineapples&lt;&gt;Cheri-ade&lt;&gt;Medium</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>13</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pineapples&lt;&gt;Watermelon&lt;&gt;Small</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>12</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pineapples&lt;&gt;Blue-Raz Lemonade&lt;&gt;Small</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>11</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pineapples&lt;&gt;Cheri-limeade&lt;&gt;Small</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>14</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Mangos&lt;&gt;Strawberry Kiwi&lt;&gt;Small</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>15</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Mangos&lt;&gt;Strawberry&lt;&gt;Small</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>16</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Smash-Punch&lt;&gt;Small</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>19</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Cherri-Limeade&lt;&gt;Small</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>17</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Green Apple&lt;&gt;Small</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>18</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Strawberry Kiwi&lt;&gt;Small</Description>
+  </Batches>
+  <Batches>
+    <BatchId>B0001</BatchId>
+    <ItemId>20</ItemId>
+    <Quantity>1</Quantity>
+    <Description>Jolly Mangos&lt;&gt;Blue-Raz Lemonade&lt;&gt;Medium</Description>
+  </Batches>
+  <Inventory>
+    <ItemId>1</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Variety&lt;&gt;Watermelon&lt;&gt;Large</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>4</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;OG Grape&lt;&gt;Medium</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>2</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Variety&lt;&gt;Blue-Raz Lemonade&lt;&gt;Large</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>3</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Cherri-ade&lt;&gt;Medium</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>5</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Cherri&lt;&gt;Medium</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>6</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Blue-Raze Lemonade&lt;&gt;Medium</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>8</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Mangos&lt;&gt;Peach&lt;&gt;Medium</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>9</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickels&lt;&gt;Peach Mango&lt;&gt;Medium</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>10</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pineapples&lt;&gt;Cheri-ade&lt;&gt;Medium</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>13</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pineapples&lt;&gt;Watermelon&lt;&gt;Small</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>12</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pineapples&lt;&gt;Blue-Raz Lemonade&lt;&gt;Small</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>11</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pineapples&lt;&gt;Cheri-limeade&lt;&gt;Small</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>14</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Mangos&lt;&gt;Strawberry Kiwi&lt;&gt;Small</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>15</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Mangos&lt;&gt;Strawberry&lt;&gt;Small</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>16</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Smash-Punch&lt;&gt;Small</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>19</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Cherri-Limeade&lt;&gt;Small</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>17</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Green Apple&lt;&gt;Small</Description>
+  </Inventory>
+  <Inventory>
+    <ItemId>18</ItemId>
+    <BatchId>B0001</BatchId>
+    <Quantity>1</Quantity>
+    <Description>Koolaid Pickles &lt;&gt;Strawberry Kiwi&lt;&gt;Small</Description>
+  </Inventory>
+  <Customers>
+    <CustomerId>C0001</CustomerId>
+    <Name>Terry Law</Name>
+    <Address>terrylaw21@gmail.com</Address>
+    <Phone>2148159731</Phone>
+  </Customers>
+  <Orders>
+    <OrderId>1</OrderId>
+    <BatchId>B0001</BatchId>
+    <ItemId>20</ItemId>
+    <CustomerId>C0001</CustomerId>
+    <Quantity>1</Quantity>
+    <Total>7.99</Total>
+    <STATUS>Filled</STATUS>
+  </Orders>
+  <Orders>
+    <OrderId>1</OrderId>
+    <BatchId>B0001</BatchId>
+    <ItemId>7</ItemId>
+    <CustomerId>C0001</CustomerId>
+    <Quantity>1</Quantity>
+    <Total>7.99</Total>
+    <STATUS>Filled</STATUS>
+  </Orders>
+  <OPS>
+    <OrderId>1</OrderId>
+    <Total>15.98</Total>
+    <STATUS>Delivered</STATUS>
+  </OPS>
+</NewDataSet>
