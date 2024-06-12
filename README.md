@@ -9,4 +9,4 @@
  The other tabs can show the different tables, and inside the different table views you can update and add table rows without extra information abouts the tables.
  
 ## Installation
-Either download the APK in releases, or clone the project and open it in Unity Editor (Allow an update for Unity because the files were made in an older Unity)
+Either download the APK in releases and use on an Android 10+ device, or clone the project and open it in Unity Editor (Allow an update for Unity because the files were made in an older Unity)
