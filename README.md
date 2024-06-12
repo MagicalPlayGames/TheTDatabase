@@ -8,3 +8,5 @@
  Upload tables writes an XML and an XMLScheme called HRS.xml and HRSScheme.xml in the default application directory.
  The other tabs can show the different tables, and inside the different table views you can update and add table rows without extra information abouts the tables.
  
+## Installation
+Either download the APK in releases, or clone the project and open it in Unity Editor (Allow an update for Unity because the files were made in an older Unity)
